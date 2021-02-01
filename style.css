@@ -1,19 +1,19 @@
 #documento {padding-left: 10px;padding-right: 100px;}
 #fecha{padding-left: 10px;padding-right: 130px;}  
 #enter {text-align: center;background-color: rgb(243, 87, 14);padding-left: 120px;padding-right: 120px;
-    padding-top: 10px;padding-bottom: 10px;}
+    padding-top: 10px;padding-bottom: 10px;color: white;}
 
 #nom {padding-top: 10px;padding-bottom: 10px;padding-left: 10px;padding-right: 390px;} 
 #apell1 {padding-top: 10px;padding-bottom: 10px;padding-left: 10px;padding-right: 100px;} 
 #apell2 {padding-top: 10px;padding-bottom: 10px;padding-left: 10px;padding-right: 100px;}
 #doc {padding-top: 10px;padding-bottom: 10px;padding-left: 10px;padding-right: 70px;} 
 #ndoc {padding-top: 10px;padding-bottom: 10px;padding-left: 10px;padding-right: 100px;}
-#movil {padding-top: 10px;padding-bottom: 10px;padding-left: 10px;padding-right: 165px;}
+#movil {padding-top: 10px;padding-bottom: 10px;padding-left: 10px;padding-right: 100px;}
 #email {padding-top: 10px;padding-bottom: 10px;padding-left: 10px;padding-right: 100px;}
 
-#email {padding-left: 10px;padding-right: 130px;}
+#emaile {padding-left: 10px;padding-right: 130px;}
 #telefono {padding-left: 10px;padding-right: 130px;}
 #pass {padding-left: 10px;padding-right: 130px;}
 #pass1 {padding-left: 10px;padding-right: 130px;}
-#cuenta {background-color: rgb(18, 241, 18); text-align: center;padding-left: 120px;padding-right: 100px;
-    padding-top: 10px;padding-bottom: 10px;}
+#cuenta {background-color: rgb(4, 102, 4); text-align: center;padding-left: 120px;padding-right: 100px;
+    padding-top: 10px;padding-bottom: 10px;color: white;}
